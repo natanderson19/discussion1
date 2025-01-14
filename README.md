@@ -1,2 +1,2 @@
 # discussion1
-<h1>Natalie Anderson</h1>
+<h1>Natalie</h1>
